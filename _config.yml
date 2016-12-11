@@ -20,7 +20,7 @@ permalink: /:title/
 # newsourceroot:
 #########################################
 disqus_shortname: jaspereclipse
-disqus_url: "jaspereclipse.disqus.com"
+disqus_url: "https://jaspereclipse.github.io"
 #########################################
 
 # Build settings
