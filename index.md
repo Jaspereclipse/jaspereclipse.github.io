@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## My personal learning space
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+I'm creating this site for recording my self-learning process of machine learning algorithms and other random stuffs.
